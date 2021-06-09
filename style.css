@@ -124,6 +124,6 @@ p {
     font-size: 20px;
 }
 #top-photo {
-    width: 600px;
+    width: 100%;
     height: auto;
 }
