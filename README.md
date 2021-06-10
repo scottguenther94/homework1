@@ -18,3 +18,5 @@ First homework assignment: on-the-job ticket
 
 * Created new CSS properties under Nav element to match website demo
 
+![Top half of website](https://user-images.githubusercontent.com/68556793/121444542-5a573580-c955-11eb-8169-4dd1f1a6a25a.png)
+![Bottom half of website](https://user-images.githubusercontent.com/68556793/121444548-5cb98f80-c955-11eb-8600-8640936ab1e8.png)
