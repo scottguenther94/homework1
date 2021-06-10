@@ -8,7 +8,7 @@ First homework assignment: on-the-job ticket
 
 * Added header and footer tags
 
-**still need to add alt atributes to imgs
+* Added alt img descriptions for accessibility
 
 
 ## CSS CHANGES
